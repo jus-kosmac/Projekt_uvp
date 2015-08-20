@@ -1,0 +1,10 @@
+V datoteki Rezultati.txt je shranjenih nekaj primerov že odigranih iger.
+Ob kliku na Možnosti, Poglej rezultate se bo odprla datoteka Rezultati.txt, ob kliku
+na Možnosti, Najboljši rezultati pa se bodo izpisali najboljši rezultati glede na
+posamezno kategorijo.
+Če izbrišete datoteko Rezultati.txt se bosta ob kliku prejšnjih dveh ukazov pojavili okni,
+ki vam bosta povedali, da še niste odigrali nobene igre.
+Če nato shranite novo igro, se bo ustvarila nova datoteka Rezultati.txt in rezultat se bo
+shranil (obe prejšnji funkciji bosta spet delovali).
+V primeru, da Rezultati.txt že obstaja, se rezultati shranjujejo vanjo.
+Za uporabo Možnosti, Poglej rezultate morate imeti Notepad.exe.
