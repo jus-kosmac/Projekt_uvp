@@ -1,0 +1,7 @@
+test1 je porabil/a 5.50 sekund in 2 potezi za reševanje 2 x 2 spomina.
+test2 je porabil/a 8.70 sekund in 4 poteze za reševanje 3 x 4 spomina.
+test3 je porabil/a 17.72 sekund in 20 potez za reševanje 4 x 4 spomina.
+test4 je porabil/a 13.60 sekund in 33 poteze za reševanje 4 x 5 spomina.
+test5 je porabil/a 32.12 sekund in 22 potez za reševanje 4 x 5 spomina.
+test6 je porabil/a 13.60 sekund in 30 potez za reševanje 4 x 5 spomina.
+test7 je porabil/a 6.87 sekund in 6 potez za reševanje 3 x 4 spomina.
